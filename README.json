@@ -1,769 +1,825 @@
 {
   "items": [
     {
-      "description": "This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge. Note that this is for all areas of software testing after the code in question is written (no unit tests/static analysis!).\nFinally, I'm sure everyone who reads this list has one thing they want to add. Please read the How to Contribute page and add to the list. :)",
-      "items": [],
-      "title": "Foreword"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bruno",
+              "description": "Open-source API client for exploring and testing APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542284380,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T11:52:40Z",
+                "owner": "usebruno",
+                "repo": "bruno",
+                "stars": 46407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keploy",
+              "description": "API Testing Platform that automatically generates unit test cases along with dependency mocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449649393,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:41:15Z",
+                "owner": "keploy",
+                "repo": "keploy",
+                "stars": 18400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RestQA",
+              "description": "REST API testing framework based on Gherkin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258732511,
+                "language": "JavaScript",
+                "last_commit": "2024-09-13T09:55:50Z",
+                "owner": "restqa",
+                "repo": "restqa",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swagger Coverage Tool",
+              "description": "The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 961383997,
+                "language": "HTML",
+                "last_commit": "2026-06-09T17:34:25Z",
+                "owner": "Nikita-Filonov",
+                "repo": "swagger-coverage-tool",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpecTest",
+              "description": "Truly declarative API testing framework in Js, or plain JSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1016502617,
+                "language": "TypeScript",
+                "last_commit": "2026-07-11T18:26:49Z",
+                "owner": "justiceo",
+                "repo": "spectest",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "postman2pytest",
+              "description": "Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1219893417,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:34:20Z",
+                "owner": "golikovichev",
+                "repo": "postman2pytest",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Webhook Debugger",
+              "description": "Open-source, self-hosted webhook inspector with signature verification support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1159870805,
+                "language": "JavaScript",
+                "last_commit": "2026-02-17T19:35:37Z",
+                "owner": "brancogao",
+                "repo": "webhook-debugger",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tests Coverage Tool",
+              "description": "Ultimate tool to measure gRPC service coverage from tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 850065983,
+                "language": "HTML",
+                "last_commit": "2026-07-27T18:19:23Z",
+                "owner": "Nikita-Filonov",
+                "repo": "tests-coverage-tool",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nuclei Scanner",
+              "description": "nuclie is automated scanner for common vulnerbilty finding on site.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252813491,
+                "language": "Go",
+                "last_commit": "2026-08-17T12:41:59Z",
+                "owner": "projectdiscovery",
+                "repo": "nuclei",
+                "stars": 30599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OWASP ZAP",
+              "description": "Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36817565,
+                "language": "Java",
+                "last_commit": "2026-08-19T10:37:05Z",
+                "owner": "zaproxy",
+                "repo": "zaproxy",
+                "stars": 15637
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "promptfoo",
+              "description": "Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633927609,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:21:50Z",
+                "owner": "promptfoo",
+                "repo": "promptfoo",
+                "stars": 24373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nika",
+              "description": "Workflow engine for AI with testing built in: pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126625946,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:39:54Z",
+                "owner": "supernovae-st",
+                "repo": "nika",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "voicetest",
+              "description": "Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134393472,
+                "language": "Python",
+                "last_commit": "2026-07-20T16:23:38Z",
+                "owner": "voicetestdev",
+                "repo": "voicetest",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evaliphy",
+              "description": "Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200267062,
+                "language": "TypeScript",
+                "last_commit": "2026-05-07T10:07:40Z",
+                "owner": "Evaliphy",
+                "repo": "evaliphy",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tenro",
+              "description": "Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1136863890,
+                "language": "Python",
+                "last_commit": "2026-06-09T05:57:54Z",
+                "owner": "tenro-ai",
+                "repo": "tenro-python",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentSkeptic",
+              "description": "Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200094800,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T17:55:48Z",
+                "owner": "jwekavanagh",
+                "repo": "agentskeptic",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI & LLM Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WireMock",
+              "description": "Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2544305,
+                "language": "Java",
+                "last_commit": "2026-08-18T08:05:02Z",
+                "owner": "wiremock",
+                "repo": "wiremock",
+                "stars": 7338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MockServer",
+              "description": "Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8426406,
+                "language": "Java",
+                "last_commit": "2026-08-19T09:14:39Z",
+                "owner": "mock-server",
+                "repo": "mockserver-monorepo",
+                "stars": 4945
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepfakeHTTP",
+              "description": "Web server using HTTP dumps as a response source for API simulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398508796,
+                "language": "Java",
+                "last_commit": "2022-08-05T16:56:15Z",
+                "owner": "xnbox",
+                "repo": "DeepfakeHTTP",
+                "stars": 526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fakecloud",
+              "description": "Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201301111,
+                "language": "Rust",
+                "last_commit": "2026-08-17T07:41:46Z",
+                "owner": "faiscadev",
+                "repo": "fakecloud",
+                "stars": 521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mockd",
+              "description": "Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149453029,
+                "language": "Go",
+                "last_commit": "2026-08-18T22:43:27Z",
+                "owner": "getmockd",
+                "repo": "mockd",
+                "stars": 142
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Service Virtualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "recheck-web",
+              "description": "Change comparison tool with Golden Masters and \"unbreakable Selenium\" tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137465274,
+                "language": "HTML",
+                "last_commit": "2023-02-27T03:57:14Z",
+                "owner": "retest",
+                "repo": "recheck-web",
+                "stars": 269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sherlo",
+              "description": "Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767591352,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T10:04:54Z",
+                "owner": "sherlo-io",
+                "repo": "sherlo",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoodLooks",
+              "description": "AI-powered visual validation for Playwright tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768861769,
+                "language": "JavaScript",
+                "last_commit": "2025-01-09T21:55:12Z",
+                "owner": "testdriverai",
+                "repo": "goodlooks",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frostbyte Screenshot Action",
+              "description": "GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1173014181,
+                "language": "JavaScript",
+                "last_commit": "2026-03-04T23:27:01Z",
+                "owner": "Robocular",
+                "repo": "frostbyte-screenshot-action",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "QA Wolf",
+              "description": "Node.js library for creating browser tests faster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209153343,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:26:23Z",
+                "owner": "qawolf",
+                "repo": "cli",
+                "stars": 3441
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ferrum",
+              "description": "Chrome automation via CDP with a high-level Ruby API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198371388,
+                "language": "Ruby",
+                "last_commit": "2026-08-19T12:47:09Z",
+                "owner": "rubycdp",
+                "repo": "ferrum",
+                "stars": 2037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hercules",
+              "description": "Open-source end-to-end testing agent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 888701643,
+                "language": "Python",
+                "last_commit": "2026-08-04T09:37:17Z",
+                "owner": "test-zeus-ai",
+                "repo": "testzeus-hercules",
+                "stars": 1120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agent-qa",
+              "description": "Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232322871,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T18:44:59Z",
+                "owner": "vostride",
+                "repo": "agent-qa",
+                "stars": 943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "playwright-bdd",
+              "description": "BDD-style Playwright testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621268886,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T08:24:56Z",
+                "owner": "vitalets",
+                "repo": "playwright-bdd",
+                "stars": 759
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tapflow",
+              "description": "Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232101800,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:38:08Z",
+                "owner": "jo-duchan",
+                "repo": "tapflow",
+                "stars": 472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flutter-skill",
+              "description": "AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1145473185,
+                "language": "Dart",
+                "last_commit": "2026-07-23T22:28:35Z",
+                "owner": "ai-dashboad",
+                "repo": "flutter-skill",
+                "stars": 354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UI Coverage Tool",
+              "description": "UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 976832224,
+                "language": "HTML",
+                "last_commit": "2025-05-20T07:55:10Z",
+                "owner": "Nikita-Filonov",
+                "repo": "ui-coverage-scenario-tool",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI & End-to-End Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TestLink",
+              "description": "Open-source test case management system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27990640,
+                "language": "PHP",
+                "last_commit": "2025-12-08T11:02:07Z",
+                "owner": "TestLinkOpenSourceTRMS",
+                "repo": "testlink-code",
+                "stars": 1610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kiwi TCMS",
+              "description": "Open-source test case management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92381207,
+                "language": "Python",
+                "last_commit": "2026-08-13T03:02:57Z",
+                "owner": "kiwitcms",
+                "repo": "Kiwi",
+                "stars": 1242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skipper",
+              "description": "Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182239555,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T07:11:57Z",
+                "owner": "get-skipper",
+                "repo": "skipper",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Synth",
+              "description": "Open-source test data generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286200698,
+                "language": "Rust",
+                "last_commit": "2024-09-27T15:51:09Z",
+                "owner": "shuttle-hq",
+                "repo": "synth",
+                "stars": 1484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Touca",
+              "description": "Continuous regression testing for behavioral and performance comparisons.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468843509,
+                "language": "TypeScript",
+                "last_commit": "2024-08-04T05:32:25Z",
+                "owner": "trytouca",
+                "repo": "trytouca",
+                "stars": 509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "test-each",
+              "description": "Data-driven testing framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188094787,
+                "language": "JavaScript",
+                "last_commit": "2025-05-25T23:03:22Z",
+                "owner": "ehmicky",
+                "repo": "test-each",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DATAMIMIC CE",
+              "description": "Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900760746,
+                "language": "Python",
+                "last_commit": "2026-07-17T07:02:39Z",
+                "owner": "rapiddweller",
+                "repo": "datamimic",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MockJutsu",
+              "description": "Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter plugin. 6 locales.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1229772135,
+                "language": "HTML",
+                "last_commit": "2026-08-05T23:56:04Z",
+                "owner": "altansayan",
+                "repo": "mock-jutsu-api",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSON Validation Test Cases",
+              "description": "Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1300872928,
+                "language": "JavaScript",
+                "last_commit": "2026-07-14T19:31:24Z",
+                "owner": "UtilHatch",
+                "repo": "json-validation-test-cases",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test Data Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Foundry",
+              "description": "Fast, modular toolkit for Ethereum development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 404320053,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:45:15Z",
+                "owner": "foundry-rs",
+                "repo": "foundry",
+                "stars": 10568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robot Framework Solidity Testing Toolkit",
+              "description": "Robot Framework integration for Solidity testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441409689,
+                "language": "HTML",
+                "last_commit": "2026-08-10T22:43:07Z",
+                "owner": "jg8481",
+                "repo": "Robot-Framework-Solidity-Testing-Toolkit",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web3 & Blockchain Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jumpstarter",
+              "description": "Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1138269866,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:12:11Z",
+                "owner": "jumpstarter-dev",
+                "repo": "jumpstarter",
+                "stars": 211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenTester",
+              "description": "MCP-First Testing Framwork: AI Agents Can Now Test Like Humans",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1165568791,
+                "language": "Python",
+                "last_commit": "2026-03-23T08:57:35Z",
+                "owner": "kznr02",
+                "repo": "OpenTester",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ai-natural-language-tests",
+              "description": "Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113888068,
+                "language": "Python",
+                "last_commit": "2026-08-18T18:03:22Z",
+                "owner": "aiqualitylab",
+                "repo": "ai-natural-language-tests",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test Automation Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rrweb",
+              "description": "Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151843254,
+                "language": "TypeScript",
+                "last_commit": "2026-07-24T10:27:11Z",
+                "owner": "rrweb-io",
+                "repo": "rrweb",
+                "stars": 20052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Captura",
+              "description": "Open-source video recording tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41589439,
+                "language": "C#",
+                "last_commit": "2026-05-25T05:07:52Z",
+                "owner": "MathewSachin",
+                "repo": "Captura",
+                "stars": 10788
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Screen Recording & Session Replays"
+        }
+      ],
       "title": "Software"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bruno",
-          "description": "Open-source API client for exploring and testing APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T20:23:52Z",
-            "owner": "usebruno",
-            "repo": "bruno",
-            "stars": 46401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keploy",
-          "description": "API Testing Platform that automatically generates unit test cases along with dependency mocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T23:32:18Z",
-            "owner": "keploy",
-            "repo": "keploy",
-            "stars": 18399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RestQA",
-          "description": "REST API testing framework based on Gherkin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-13T09:55:50Z",
-            "owner": "restqa",
-            "repo": "restqa",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swagger Coverage Tool",
-          "description": "The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-09T17:34:25Z",
-            "owner": "Nikita-Filonov",
-            "repo": "swagger-coverage-tool",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpecTest",
-          "description": "Truly declarative API testing framework in Js, or plain JSON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-11T18:26:49Z",
-            "owner": "justiceo",
-            "repo": "spectest",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "postman2pytest",
-          "description": "Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T20:34:20Z",
-            "owner": "golikovichev",
-            "repo": "postman2pytest",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Webhook Debugger",
-          "description": "Open-source, self-hosted webhook inspector with signature verification support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-17T19:35:37Z",
-            "owner": "brancogao",
-            "repo": "webhook-debugger",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tests Coverage Tool",
-          "description": "Ultimate tool to measure gRPC service coverage from tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-27T18:19:23Z",
-            "owner": "Nikita-Filonov",
-            "repo": "tests-coverage-tool",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "API Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nuclei Scanner",
-          "description": "nuclie is automated scanner for common vulnerbilty finding on site.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T12:41:59Z",
-            "owner": "projectdiscovery",
-            "repo": "nuclei",
-            "stars": 30589
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OWASP ZAP",
-          "description": "Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T08:01:46Z",
-            "owner": "zaproxy",
-            "repo": "zaproxy",
-            "stars": 15633
-          }
-        }
-      ],
-      "title": "Security Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "promptfoo",
-          "description": "Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:33:59Z",
-            "owner": "promptfoo",
-            "repo": "promptfoo",
-            "stars": 24352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nika",
-          "description": "Workflow engine for AI with testing built in: pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T02:58:28Z",
-            "owner": "supernovae-st",
-            "repo": "nika",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "voicetest",
-          "description": "Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T16:23:38Z",
-            "owner": "voicetestdev",
-            "repo": "voicetest",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evaliphy",
-          "description": "Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-07T10:07:40Z",
-            "owner": "Evaliphy",
-            "repo": "evaliphy",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tenro",
-          "description": "Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-09T05:57:54Z",
-            "owner": "tenro-ai",
-            "repo": "tenro-python",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentSkeptic",
-          "description": "Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-03T17:55:48Z",
-            "owner": "jwekavanagh",
-            "repo": "agentskeptic",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "AI & LLM Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WireMock",
-          "description": "Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T08:05:02Z",
-            "owner": "wiremock",
-            "repo": "wiremock",
-            "stars": 7338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MockServer",
-          "description": "Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-19T02:28:14Z",
-            "owner": "mock-server",
-            "repo": "mockserver-monorepo",
-            "stars": 4945
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepfakeHTTP",
-          "description": "Web server using HTTP dumps as a response source for API simulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-08-05T16:56:15Z",
-            "owner": "xnbox",
-            "repo": "DeepfakeHTTP",
-            "stars": 526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fakecloud",
-          "description": "Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T07:41:46Z",
-            "owner": "faiscadev",
-            "repo": "fakecloud",
-            "stars": 521
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mockd",
-          "description": "Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T22:43:27Z",
-            "owner": "getmockd",
-            "repo": "mockd",
-            "stars": 142
-          }
-        }
-      ],
-      "title": "Service Virtualization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "recheck-web",
-          "description": "Change comparison tool with Golden Masters and \"unbreakable Selenium\" tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-02-27T03:57:14Z",
-            "owner": "retest",
-            "repo": "recheck-web",
-            "stars": 269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sherlo",
-          "description": "Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T10:04:54Z",
-            "owner": "sherlo-io",
-            "repo": "sherlo",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GoodLooks",
-          "description": "AI-powered visual validation for Playwright tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-09T21:55:12Z",
-            "owner": "testdriverai",
-            "repo": "goodlooks",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Frostbyte Screenshot Action",
-          "description": "GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-04T23:27:01Z",
-            "owner": "Robocular",
-            "repo": "frostbyte-screenshot-action",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Visual Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "QA Wolf",
-          "description": "Node.js library for creating browser tests faster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:04:13Z",
-            "owner": "qawolf",
-            "repo": "cli",
-            "stars": 3441
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ferrum",
-          "description": "Chrome automation via CDP with a high-level Ruby API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T20:06:53Z",
-            "owner": "rubycdp",
-            "repo": "ferrum",
-            "stars": 2037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hercules",
-          "description": "Open-source end-to-end testing agent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T09:37:17Z",
-            "owner": "test-zeus-ai",
-            "repo": "testzeus-hercules",
-            "stars": 1118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agent-qa",
-          "description": "Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-03T18:44:59Z",
-            "owner": "vostride",
-            "repo": "agent-qa",
-            "stars": 931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "playwright-bdd",
-          "description": "BDD-style Playwright testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T08:24:56Z",
-            "owner": "vitalets",
-            "repo": "playwright-bdd",
-            "stars": 757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tapflow",
-          "description": "Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:45:31Z",
-            "owner": "jo-duchan",
-            "repo": "tapflow",
-            "stars": 466
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flutter-skill",
-          "description": "AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-07-23T22:28:35Z",
-            "owner": "ai-dashboad",
-            "repo": "flutter-skill",
-            "stars": 352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UI Coverage Tool",
-          "description": "UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-05-20T07:55:10Z",
-            "owner": "Nikita-Filonov",
-            "repo": "ui-coverage-scenario-tool",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "UI & End-to-End Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TestLink",
-          "description": "Open-source test case management system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-12-08T11:02:07Z",
-            "owner": "TestLinkOpenSourceTRMS",
-            "repo": "testlink-code",
-            "stars": 1610
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kiwi TCMS",
-          "description": "Open-source test case management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T03:02:57Z",
-            "owner": "kiwitcms",
-            "repo": "Kiwi",
-            "stars": 1240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "skipper",
-          "description": "Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-01T07:11:57Z",
-            "owner": "get-skipper",
-            "repo": "skipper",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Test Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Synth",
-          "description": "Open-source test data generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-09-27T15:51:09Z",
-            "owner": "shuttle-hq",
-            "repo": "synth",
-            "stars": 1484
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Touca",
-          "description": "Continuous regression testing for behavioral and performance comparisons.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-04T05:32:25Z",
-            "owner": "trytouca",
-            "repo": "trytouca",
-            "stars": 509
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "test-each",
-          "description": "Data-driven testing framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-25T23:03:22Z",
-            "owner": "ehmicky",
-            "repo": "test-each",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DATAMIMIC CE",
-          "description": "Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T07:02:39Z",
-            "owner": "rapiddweller",
-            "repo": "datamimic",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MockJutsu",
-          "description": "Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter plugin. 6 locales.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-05T23:56:04Z",
-            "owner": "altansayan",
-            "repo": "mock-jutsu-api",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JSON Validation Test Cases",
-          "description": "Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-14T19:31:24Z",
-            "owner": "UtilHatch",
-            "repo": "json-validation-test-cases",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Test Data Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Foundry",
-          "description": "Fast, modular toolkit for Ethereum development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T02:41:58Z",
-            "owner": "foundry-rs",
-            "repo": "foundry",
-            "stars": 10570
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robot Framework Solidity Testing Toolkit",
-          "description": "Robot Framework integration for Solidity testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-10T22:43:07Z",
-            "owner": "jg8481",
-            "repo": "Robot-Framework-Solidity-Testing-Toolkit",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Web3 & Blockchain Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jumpstarter",
-          "description": "Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T02:32:40Z",
-            "owner": "jumpstarter-dev",
-            "repo": "jumpstarter",
-            "stars": 211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenTester",
-          "description": "MCP-First Testing Framwork: AI Agents Can Now Test Like Humans",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-23T08:57:35Z",
-            "owner": "kznr02",
-            "repo": "OpenTester",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ai-natural-language-tests",
-          "description": "Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T18:03:22Z",
-            "owner": "aiqualitylab",
-            "repo": "ai-natural-language-tests",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Test Automation Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rrweb",
-          "description": "Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-24T10:27:11Z",
-            "owner": "rrweb-io",
-            "repo": "rrweb",
-            "stars": 20052
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Captura",
-          "description": "Open-source video recording tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-25T05:07:52Z",
-            "owner": "MathewSachin",
-            "repo": "Captura",
-            "stars": 10786
-          }
-        }
-      ],
-      "title": "Screen Recording & Session Replays"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -772,6 +828,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30202970,
             "language": null,
             "last_commit": "2025-05-10T22:50:40Z",
             "owner": "karlhorky",
@@ -786,6 +843,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230592219,
             "language": "TypeScript",
             "last_commit": "2026-05-12T13:01:32Z",
             "owner": "majdukovic",
@@ -797,251 +855,255 @@
       "title": "Training (Includes developer training for automation testers)"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Naughty Strings",
+              "description": "This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40416236,
+                "language": "Python",
+                "last_commit": "2024-04-18T03:26:59Z",
+                "owner": "minimaxir",
+                "repo": "big-list-of-naughty-strings",
+                "stars": 47707
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Falsehoods",
+              "description": "A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67687706,
+                "language": null,
+                "last_commit": "2026-08-14T13:32:02Z",
+                "owner": "kdeldycke",
+                "repo": "awesome-falsehood",
+                "stars": 27624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unicode",
+              "description": "A great resource for learning how unicode works and the issues it can cause.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60032578,
+                "language": "JavaScript",
+                "last_commit": "2022-07-01T15:20:50Z",
+                "owner": "jagracey",
+                "repo": "Awesome-Unicode",
+                "stars": 981
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Must Read"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Original",
+              "description": "The awesome list of awesome lists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21737465,
+                "language": null,
+                "last_commit": "2026-08-18T13:28:50Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 497669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Security",
+              "description": "This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23208012,
+                "language": null,
+                "last_commit": "2026-01-11T02:00:26Z",
+                "owner": "sbilly",
+                "repo": "awesome-security",
+                "stars": 14766
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Application Security",
+              "description": "Incredibly extensive, but you'll find something to fit the bill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34877308,
+                "language": "PHP",
+                "last_commit": "2025-02-22T16:39:11Z",
+                "owner": "paragonie",
+                "repo": "awesome-appsec",
+                "stars": 7034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How They Test",
+              "description": "A curated collection of public resources from tech companies on how they test their software and build a quality culture",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249660426,
+                "language": "TypeScript",
+                "last_commit": "2026-08-02T16:08:38Z",
+                "owner": "abhivaikar",
+                "repo": "howtheytest",
+                "stars": 6864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learn to Code",
+              "description": "Learning to code, for those looking to make the move to automation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30202970,
+                "language": null,
+                "last_commit": "2025-05-10T22:50:40Z",
+                "owner": "karlhorky",
+                "repo": "learn-to-program",
+                "stars": 4899
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Software Quality",
+              "description": "A list of free software testing and verification resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19713206,
+                "language": null,
+                "last_commit": "2023-02-01T15:23:18Z",
+                "owner": "ligurio",
+                "repo": "sqa-wiki",
+                "stars": 2321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Selenium",
+              "description": "Better than searching Google if you know what you want.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22268536,
+                "language": null,
+                "last_commit": "2026-03-17T19:57:25Z",
+                "owner": "christian-bromann",
+                "repo": "awesome-selenium",
+                "stars": 1131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome JMeter",
+              "description": "A curated collection of resources around Apache JMeter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37666064,
+                "language": "HTML",
+                "last_commit": "2026-08-01T02:02:30Z",
+                "owner": "aliesbelik",
+                "repo": "awesome-jmeter",
+                "stars": 807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Testing",
+              "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1227214087,
+                "language": null,
+                "last_commit": "2026-08-19T06:08:07Z",
+                "owner": "tugkanboz",
+                "repo": "awesome-ai-testing",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Cucumber",
+              "description": "A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87323567,
+                "language": null,
+                "last_commit": "2021-09-22T23:03:00Z",
+                "owner": "virajkulkarni14",
+                "repo": "Awesome-Cucumber",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Performance Engineering",
+              "description": "A curated collection of tools and resources for performance engineering, covering observability and performance testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132902363,
+                "language": null,
+                "last_commit": "2026-08-06T13:39:00Z",
+                "owner": "be-next",
+                "repo": "awesome-performance-engineering",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Behave",
+              "description": "A curated list of Behave resources, tools, and libraries for Python BDD.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1296054315,
+                "language": "Python",
+                "last_commit": "2026-08-14T01:21:27Z",
+                "owner": "MathiasPaulenko",
+                "repo": "awesome-behave",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Useful References"
+        }
+      ],
       "title": "Suggested Awesome Lists"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Naughty Strings",
-          "description": "This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-18T03:26:59Z",
-            "owner": "minimaxir",
-            "repo": "big-list-of-naughty-strings",
-            "stars": 47707
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Falsehoods",
-          "description": "A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T13:32:02Z",
-            "owner": "kdeldycke",
-            "repo": "awesome-falsehood",
-            "stars": 27621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unicode",
-          "description": "A great resource for learning how unicode works and the issues it can cause.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-01T15:20:50Z",
-            "owner": "jagracey",
-            "repo": "Awesome-Unicode",
-            "stars": 981
-          }
-        }
-      ],
-      "title": "Must Read"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "The Original",
-          "description": "The awesome list of awesome lists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T13:28:50Z",
-            "owner": "sindresorhus",
-            "repo": "awesome",
-            "stars": 497464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Security",
-          "description": "This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-11T02:00:26Z",
-            "owner": "sbilly",
-            "repo": "awesome-security",
-            "stars": 14765
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Application Security",
-          "description": "Incredibly extensive, but you'll find something to fit the bill.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-02-22T16:39:11Z",
-            "owner": "paragonie",
-            "repo": "awesome-appsec",
-            "stars": 7032
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How They Test",
-          "description": "A curated collection of public resources from tech companies on how they test their software and build a quality culture",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-02T16:08:38Z",
-            "owner": "abhivaikar",
-            "repo": "howtheytest",
-            "stars": 6864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learn to Code",
-          "description": "Learning to code, for those looking to make the move to automation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-05-10T22:50:40Z",
-            "owner": "karlhorky",
-            "repo": "learn-to-program",
-            "stars": 4899
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Software Quality",
-          "description": "A list of free software testing and verification resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-01T15:23:18Z",
-            "owner": "ligurio",
-            "repo": "sqa-wiki",
-            "stars": 2321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Selenium",
-          "description": "Better than searching Google if you know what you want.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-17T19:57:25Z",
-            "owner": "christian-bromann",
-            "repo": "awesome-selenium",
-            "stars": 1131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome JMeter",
-          "description": "A curated collection of resources around Apache JMeter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-01T02:02:30Z",
-            "owner": "aliesbelik",
-            "repo": "awesome-jmeter",
-            "stars": 807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Testing",
-          "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T06:06:01Z",
-            "owner": "tugkanboz",
-            "repo": "awesome-ai-testing",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Cucumber",
-          "description": "A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-09-22T23:03:00Z",
-            "owner": "virajkulkarni14",
-            "repo": "Awesome-Cucumber",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Performance Engineering",
-          "description": "A curated collection of tools and resources for performance engineering, covering observability and performance testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-06T13:39:00Z",
-            "owner": "be-next",
-            "repo": "awesome-performance-engineering",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Behave",
-          "description": "A curated list of Behave resources, tools, and libraries for Python BDD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T01:21:27Z",
-            "owner": "MathiasPaulenko",
-            "repo": "awesome-behave",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Useful References"
-    },
-    {
-      "description": "See the Awesome Testing contribution guide for details on how to contribute.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "See the Code of Conduct for details. Basically it comes down to:",
-      "items": [],
-      "title": "Code of Conduct"
-    },
-    {
-      "description": "To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work. See the license file for details.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:09:14.981Z",
+    "last_updated": "2026-08-19T12:54:15.939Z",
     "original_repository": "TheJambo/awesome-testing",
+    "original_repository_id": 77133957,
     "original_repository_sha": "e7635cad01b538db3b30ac71dd0e16d93f0057c1",
     "enhanced_repository": "enhansome/enhansome-testing",
     "enhanced_repository_description": null,
