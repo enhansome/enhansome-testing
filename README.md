@@ -8,7 +8,7 @@
 
 This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge. Note that this is for all areas of software testing after the code in question is written (no unit tests/static analysis!).
 
-Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) ⭐ 2,356 | 🐛 7 | 📅 2026-08-22 page and add to the list. :)
+Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) ⭐ 2,356 | 🐛 8 | 📅 2026-08-22 page and add to the list. :)
 
 ## Contents
 
@@ -28,7 +28,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### API Testing
 
-* [Bruno](https://github.com/usebruno/bruno) ⭐ 46,526 | 🐛 1,828 | 🌐 JavaScript | 📅 2026-08-24 - Open-source API client for exploring and testing APIs.
+* [Bruno](https://github.com/usebruno/bruno) ⭐ 46,527 | 🐛 1,828 | 🌐 JavaScript | 📅 2026-08-24 - Open-source API client for exploring and testing APIs.
 * [Keploy](https://github.com/keploy/keploy) ⭐ 18,414 | 🐛 704 | 🌐 Go | 📅 2026-08-24 - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 * [RestQA](https://github.com/restqa/restqa) ⭐ 93 | 🐛 18 | 🌐 JavaScript | 📅 2024-09-13 - REST API testing framework based on Gherkin.
 * [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2026-06-09 - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
@@ -48,15 +48,15 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security Testing
 
-* [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) ⭐ 30,771 | 🐛 109 | 🌐 Go | 📅 2026-08-24 - nuclie is automated scanner for common vulnerbilty finding on site.
-* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,676 | 🐛 859 | 🌐 Java | 📅 2026-08-21 - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
+* [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) ⭐ 30,775 | 🐛 109 | 🌐 Go | 📅 2026-08-24 - nuclie is automated scanner for common vulnerbilty finding on site.
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,677 | 🐛 859 | 🌐 Java | 📅 2026-08-21 - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 * [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 * [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 
 ### AI & LLM Testing
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,543 | 🐛 510 | 🌐 TypeScript | 📅 2026-08-25 - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
-* [nika](https://github.com/supernovae-st/nika) ⭐ 57 | 🐛 34 | 🌐 Rust | 📅 2026-08-25 - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,547 | 🐛 511 | 🌐 TypeScript | 📅 2026-08-25 - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+* [nika](https://github.com/supernovae-st/nika) ⭐ 58 | 🐛 30 | 🌐 Rust | 📅 2026-08-25 - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 * [voicetest](https://github.com/voicetestdev/voicetest) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2026-07-20 - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 * [Evaliphy](https://github.com/evaliphy/evaliphy) ⭐ 18 | 🐛 12 | 🌐 TypeScript | 📅 2026-05-07 - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
 * [Tenro](https://github.com/tenro-ai/tenro-python) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-06-09 - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
@@ -65,7 +65,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Service Virtualization
 
-* [WireMock](https://github.com/wiremock/wiremock) ⭐ 7,342 | 🐛 494 | 🌐 Java | 📅 2026-08-24 - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
+* [WireMock](https://github.com/wiremock/wiremock) ⭐ 7,343 | 🐛 494 | 🌐 Java | 📅 2026-08-24 - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 * [MockServer](https://github.com/mock-server/mockserver-monorepo) ⭐ 4,949 | 🐛 2 | 🌐 Java | 📅 2026-08-25 - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
 * [fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 529 | 🐛 3 | 🌐 Rust | 📅 2026-08-24 - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 * [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) ⭐ 526 | 🐛 8 | 🌐 Java | 📅 2022-08-05 - Web server using HTTP dumps as a response source for API simulation.
@@ -158,7 +158,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Web3 & Blockchain Testing
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,572 | 🐛 286 | 🌐 Rust | 📅 2026-08-25 - Fast, modular toolkit for Ethereum development.
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,573 | 🐛 289 | 🌐 Rust | 📅 2026-08-25 - Fast, modular toolkit for Ethereum development.
 * [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) ⭐ 13 | 🐛 14 | 🌐 HTML | 📅 2026-08-10 - Robot Framework integration for Solidity testing.
 * [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
 * [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
@@ -169,7 +169,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Automation Frameworks
 
 * [Bats](https://github.com/bats-core/bats-core) ⭐ 6,231 | 🐛 129 | 🌐 Shell | 📅 2026-07-26 - Bash Automated Testing System.
-* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 211 | 🐛 163 | 🌐 Python | 📅 2026-08-24 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 211 | 🐛 163 | 🌐 Python | 📅 2026-08-25 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 * [OpenTester](https://github.com/kznr02/OpenTester) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-03-23 - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 * [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-08-24 - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 * [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
@@ -241,7 +241,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-* [The Original](https://github.com/sindresorhus/awesome) ⭐ 499,662 | 🐛 106 | 📅 2026-08-21 - The awesome list of awesome lists.
+* [The Original](https://github.com/sindresorhus/awesome) ⭐ 499,699 | 🐛 106 | 📅 2026-08-21 - The awesome list of awesome lists.
 * [Security](https://github.com/sbilly/awesome-security) ⭐ 14,792 | 🐛 315 | 📅 2026-01-11 - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 * [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,040 | 🐛 40 | 🌐 PHP | 📅 2025-02-22 - Incredibly extensive, but you'll find something to fit the bill.
 * [How They Test](https://github.com/abhivaikar/howtheytest) ⭐ 6,866 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-22 - A curated collection of public resources from tech companies on how they test their software and build a quality culture
@@ -249,7 +249,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Selenium](https://github.com/christian-bromann/awesome-selenium) ⭐ 1,130 | 🐛 5 | 📅 2026-03-17 - Better than searching Google if you know what you want.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - A curated collection of resources around Apache JMeter.
-* [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) ⭐ 76 | 🐛 59 | 📅 2026-08-24 - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
+* [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) ⭐ 77 | 🐛 59 | 📅 2026-08-24 - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 * [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) ⭐ 45 | 🐛 3 | 📅 2021-09-22 - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 * [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) ⭐ 35 | 🐛 0 | 📅 2026-08-06 - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 * [Awesome Behave](https://github.com/MathiasPaulenko/awesome-behave#readme) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - A curated list of Behave resources, tools, and libraries for Python BDD.
@@ -284,7 +284,7 @@ See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes do
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [the
-contributors](https://github.com/TheJambo/awesome-testing/graphs/contributors) ⭐ 2,356 | 🐛 7 | 📅 2026-08-22
+contributors](https://github.com/TheJambo/awesome-testing/graphs/contributors) ⭐ 2,356 | 🐛 8 | 📅 2026-08-22
 have waived all copyright and related or neighboring rights to this work. See the
 [license file](LICENSE) for details.
 

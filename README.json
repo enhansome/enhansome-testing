@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T16:22:02Z",
                 "owner": "usebruno",
                 "repo": "bruno",
-                "stars": 46526
+                "stars": 46527
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-24T08:59:31Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30771
+                "stars": 30775
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-21T13:16:22Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15676
+                "stars": 15677
               }
             }
           ],
@@ -178,10 +178,10 @@
                 "archived": false,
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:31:45Z",
+                "last_commit": "2026-08-25T05:53:53Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24543
+                "stars": 24547
               }
             },
             {
@@ -193,10 +193,10 @@
                 "archived": false,
                 "id": 1126625946,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:55:26Z",
+                "last_commit": "2026-08-25T05:43:17Z",
                 "owner": "supernovae-st",
                 "repo": "nika",
-                "stars": 57
+                "stars": 58
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-24T09:52:02Z",
                 "owner": "wiremock",
                 "repo": "wiremock",
-                "stars": 7342
+                "stars": 7343
               }
             },
             {
@@ -744,10 +744,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:29:16Z",
+                "last_commit": "2026-08-25T04:10:53Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10572
+                "stars": 10573
               }
             },
             {
@@ -796,7 +796,7 @@
                 "archived": false,
                 "id": 1138269866,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:24:33Z",
+                "last_commit": "2026-08-25T05:15:45Z",
                 "owner": "jumpstarter-dev",
                 "repo": "jumpstarter",
                 "stars": 211
@@ -982,7 +982,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499662
+                "stars": 499699
               }
             },
             {
@@ -1102,7 +1102,7 @@
                 "last_commit": "2026-08-24T06:10:40Z",
                 "owner": "tugkanboz",
                 "repo": "awesome-ai-testing",
-                "stars": 76
+                "stars": 77
               }
             },
             {
@@ -1202,7 +1202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:11:01.915Z",
+    "last_updated": "2026-08-25T06:01:11.093Z",
     "original_repository": "TheJambo/awesome-testing",
     "original_repository_id": 77133957,
     "original_repository_sha": "d6486c957e5bc4a6c87e952d55030d5cb211ab0a",
