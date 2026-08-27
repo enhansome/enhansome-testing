@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 449649393,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:57:13Z",
+                "last_commit": "2026-08-27T12:10:21Z",
                 "owner": "keploy",
                 "repo": "keploy",
                 "stars": 18432
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-26T08:56:57Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30869
+                "stars": 30870
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-27T08:01:46Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15689
+                "stars": 15691
               }
             }
           ],
@@ -472,7 +472,7 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 847
+                "stars": 848
               }
             },
             {
@@ -502,7 +502,7 @@
                 "last_commit": "2026-08-26T19:19:22Z",
                 "owner": "jo-duchan",
                 "repo": "tapflow",
-                "stars": 516
+                "stars": 518
               }
             },
             {
@@ -744,7 +744,7 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:52:04Z",
+                "last_commit": "2026-08-27T12:11:25Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
                 "stars": 10569
@@ -866,7 +866,7 @@
                 "last_commit": "2026-08-24T05:55:42Z",
                 "owner": "rrweb-io",
                 "repo": "rrweb",
-                "stars": 20081
+                "stars": 20082
               }
             },
             {
@@ -997,7 +997,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500368
+                "stars": 500376
               }
             },
             {
@@ -1012,7 +1012,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14797
+                "stars": 14798
               }
             },
             {
@@ -1217,7 +1217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:03.091Z",
+    "last_updated": "2026-08-27T12:44:57.363Z",
     "original_repository_info": {
       "archived": false,
       "id": 77133957,

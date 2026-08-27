@@ -48,8 +48,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security Testing
 
-* [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) ⭐ 30,869 | 🐛 105 | 🌐 Go | 📅 2026-08-26 - nuclie is automated scanner for common vulnerbilty finding on site.
-* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,689 | 🐛 859 | 🌐 Java | 📅 2026-08-27 - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
+* [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) ⭐ 30,870 | 🐛 105 | 🌐 Go | 📅 2026-08-26 - nuclie is automated scanner for common vulnerbilty finding on site.
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,691 | 🐛 860 | 🌐 Java | 📅 2026-08-27 - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 * [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 * [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 
@@ -92,9 +92,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 * [QA Wolf](https://github.com/qawolf/qawolf) ⭐ 3,443 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-27 - Node.js library for creating browser tests faster.
 * [Ferrum](https://github.com/rubycdp/ferrum) ⭐ 2,037 | 🐛 13 | 🌐 Ruby | 📅 2026-08-26 - Chrome automation via CDP with a high-level Ruby API.
 * [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) ⭐ 1,132 | 🐛 37 | 🌐 Python | 📅 2026-08-04 - Open-source end-to-end testing agent.
-* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 847 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.
+* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 848 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.
 * [playwright-bdd](https://github.com/vitalets/playwright-bdd) ⭐ 769 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-27 - BDD-style Playwright testing.
-* [tapflow](https://github.com/jo-duchan/tapflow) ⭐ 516 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-26 - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+* [tapflow](https://github.com/jo-duchan/tapflow) ⭐ 518 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-26 - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 * [flutter-skill](https://github.com/ai-dashboad/flutter-skill) ⭐ 360 | 🐛 7 | 🌐 Dart | 📅 2026-08-21 - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 * [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2025-05-20 - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 * [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
@@ -158,7 +158,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Web3 & Blockchain Testing
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,569 | 🐛 291 | 🌐 Rust | 📅 2026-08-27 - Fast, modular toolkit for Ethereum development.
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,569 | 🐛 289 | 🌐 Rust | 📅 2026-08-27 - Fast, modular toolkit for Ethereum development.
 * [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) ⭐ 13 | 🐛 14 | 🌐 HTML | 📅 2026-08-10 - Robot Framework integration for Solidity testing.
 * [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
 * [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
@@ -178,7 +178,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Screen Recording & Session Replays
 
-* [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,081 | 🐛 423 | 🌐 TypeScript | 📅 2026-08-24 - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+* [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,082 | 🐛 423 | 🌐 TypeScript | 📅 2026-08-24 - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 * [Captura](https://github.com/MathewSachin/Captura) ⭐ 10,808 | 🐛 116 | 🌐 C# | 📅 2026-05-25 - Open-source video recording tool.
 * [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
 
@@ -242,8 +242,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-* [The Original](https://github.com/sindresorhus/awesome) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21 - The awesome list of awesome lists.
-* [Security](https://github.com/sbilly/awesome-security) ⭐ 14,797 | 🐛 313 | 📅 2026-01-11 - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+* [The Original](https://github.com/sindresorhus/awesome) ⭐ 500,376 | 🐛 105 | 📅 2026-08-21 - The awesome list of awesome lists.
+* [Security](https://github.com/sbilly/awesome-security) ⭐ 14,798 | 🐛 313 | 📅 2026-01-11 - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 * [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,043 | 🐛 40 | 🌐 PHP | 📅 2025-02-22 - Incredibly extensive, but you'll find something to fit the bill.
 * [How They Test](https://github.com/abhivaikar/howtheytest) ⭐ 6,866 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-22 - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 * [Learn to Code](https://github.com/karlhorky/learn-to-program) ⭐ 4,904 | 🐛 24 | 📅 2025-05-10 - Learning to code, for those looking to make the move to automation
