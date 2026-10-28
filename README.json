@@ -17,11 +17,11 @@
                 "id": 542284380,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T06:52:54Z",
-                "open_issues": 1947,
+                "last_commit": "2026-10-28T06:48:34Z",
+                "open_issues": 1967,
                 "owner": "usebruno",
                 "repo": "bruno",
-                "stars": 47863,
+                "stars": 47892,
                 "topics": [
                   "api-client",
                   "api-testing",
@@ -53,11 +53,11 @@
                 "id": 449649393,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T07:41:22Z",
-                "open_issues": 816,
+                "last_commit": "2026-10-28T08:19:08Z",
+                "open_issues": 828,
                 "owner": "keploy",
                 "repo": "keploy",
-                "stars": 18783,
+                "stars": 18867,
                 "topics": [
                   "agentic-ai",
                   "ai-testing-tool",
@@ -139,48 +139,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SolidPing",
-              "description": "Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Distributed, self-hostable uptime monitoring: 40 check types, multi-region workers, private agents, status pages, incidents and on-call escalation — in a single Go binary.",
-                "homepage": "https://www.solidping.io",
-                "id": 1189028253,
-                "language": "Go",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T06:38:36Z",
-                "open_issues": 4,
-                "owner": "fclairamb",
-                "repo": "solidping",
-                "stars": 26,
-                "topics": [
-                  "alerting",
-                  "devops",
-                  "distributed-systems",
-                  "golang",
-                  "health-check",
-                  "incident-management",
-                  "mcp-server",
-                  "monitoring",
-                  "observability",
-                  "on-call",
-                  "postgresql",
-                  "react",
-                  "self-hosted",
-                  "sre",
-                  "status-page",
-                  "synthetic-monitoring",
-                  "uptime",
-                  "uptime-kuma-alternative",
-                  "uptime-monitoring",
-                  "website-monitoring"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
             },
             {
               "node_type": "item",
@@ -318,39 +276,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Openhook",
-              "description": "Open-source webhook inbox for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source webhook, email, and DNS inboxes for AI agents. MCP tools and local forwarding.",
-                "homepage": "https://openhook.dev",
-                "id": 1403702300,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-19T20:24:44Z",
-                "open_issues": 0,
-                "owner": "openhook-dev",
-                "repo": "openhook-inbox",
-                "stars": 1,
-                "topics": [
-                  "agent-skills",
-                  "ai-agents",
-                  "claude-skills",
-                  "developer-tools",
-                  "gemini-cli-extension",
-                  "mcp",
-                  "model-context-protocol",
-                  "python",
-                  "self-hosted",
-                  "webhook",
-                  "webhook-testing"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
             }
           ],
           "description": null,
@@ -371,11 +296,11 @@
                 "id": 252813491,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-27T07:11:01Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-27T17:13:16Z",
+                "open_issues": 84,
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 32359,
+                "stars": 32388,
                 "topics": [
                   "attack-surface",
                   "cve-scanner",
@@ -404,11 +329,11 @@
                 "id": 36817565,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T13:55:57Z",
-                "open_issues": 872,
+                "last_commit": "2026-10-27T15:46:51Z",
+                "open_issues": 871,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 16039,
+                "stars": 16054,
                 "topics": [
                   "appsec",
                   "dast",
@@ -422,48 +347,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Darkmoon",
-              "description": "Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
-                "homepage": "https://dark-moon.org/",
-                "id": 894433723,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-26T13:36:22Z",
-                "open_issues": 2,
-                "owner": "ASCIT31",
-                "repo": "Dark-Moon",
-                "stars": 1149,
-                "topics": [
-                  "active-directory",
-                  "ai-penetration-testing",
-                  "ai-red-team",
-                  "ai-red-teaming",
-                  "ai-security",
-                  "ai-security-tool",
-                  "autonomous-ai",
-                  "cloud-security",
-                  "kubernetes",
-                  "llm",
-                  "llm-security",
-                  "local-llm",
-                  "mcp",
-                  "offensive-security",
-                  "penetration-testing",
-                  "pentesting",
-                  "red-team",
-                  "security-tools",
-                  "self-hosted",
-                  "vulnerability-scanner"
-                ]
-              },
-              "first_seen": "2026-10-01T08:51:33.174Z"
             }
           ],
           "description": null,
@@ -484,11 +367,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:28:53Z",
-                "open_issues": 868,
+                "last_commit": "2026-10-28T07:55:26Z",
+                "open_issues": 875,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 26484,
+                "stars": 26533,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -514,43 +397,6 @@
             },
             {
               "node_type": "item",
-              "title": "OrcaReplay",
-              "description": "Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
-                "homepage": "http://www.orcarouter.ai",
-                "id": 1350419329,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-01T09:18:56Z",
-                "open_issues": 2,
-                "owner": "Continuum-AI-Corp",
-                "repo": "OrcaReplay",
-                "stars": 286,
-                "topics": [
-                  "agent-debugging",
-                  "agent-tracing",
-                  "ai-agent",
-                  "ai-agents",
-                  "ai-debugger",
-                  "ai-debugging",
-                  "anthropic",
-                  "llm",
-                  "llm-agents",
-                  "llm-evaluation",
-                  "llm-observability",
-                  "mcp",
-                  "observability",
-                  "openai",
-                  "orcarouter"
-                ]
-              },
-              "first_seen": "2026-09-14T07:52:06.300Z"
-            },
-            {
-              "node_type": "item",
               "title": "nika",
               "description": "Workflow engine for AI with testing built in: pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.",
               "children": [],
@@ -561,8 +407,8 @@
                 "id": 1126625946,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T04:45:50Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-28T08:13:56Z",
+                "open_issues": 27,
                 "owner": "supernovae-st",
                 "repo": "nika",
                 "stars": 95,
@@ -593,48 +439,6 @@
             },
             {
               "node_type": "item",
-              "title": "OrcaPromptVault",
-              "description": "Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The open archive of how AI agents actually work.  A versioned, verifiable archive of system prompts, developer instructions, tool schemas and agent harnesses powering today's AI products. Captured with OrcaReplay.",
-                "homepage": "https://www.orcarouter.ai",
-                "id": 1371309863,
-                "language": null,
-                "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T09:19:34Z",
-                "open_issues": 0,
-                "owner": "Continuum-AI-Corp",
-                "repo": "OrcaPromptVault",
-                "stars": 79,
-                "topics": [
-                  "agent-harness",
-                  "ai-agents",
-                  "ai-transparency",
-                  "anthropic",
-                  "chatgpt",
-                  "claude",
-                  "claude-code",
-                  "codex",
-                  "coding-agents",
-                  "cursor",
-                  "gemini",
-                  "grok",
-                  "llm",
-                  "openai",
-                  "opencode",
-                  "orcareplay",
-                  "prompt-archive",
-                  "prompt-engineering",
-                  "system-prompts",
-                  "tool-schemas"
-                ]
-              },
-              "first_seen": "2026-10-02T08:27:34.498Z"
-            },
-            {
-              "node_type": "item",
               "title": "voicetest",
               "description": "Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.",
               "children": [],
@@ -649,7 +453,7 @@
                 "open_issues": 10,
                 "owner": "voicetestdev",
                 "repo": "voicetest",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "bland",
                   "dspy",
@@ -767,87 +571,6 @@
             },
             {
               "node_type": "item",
-              "title": "aiexpect",
-              "description": "Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Assertions for non-deterministic AI text. Drop into pytest, get a Trust Score + HTML report. Free-first: rules, local embeddings, then your own LLM judge.",
-                "homepage": "https://pypi.org/project/aiexpect/",
-                "id": 1366851199,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-14T00:19:04Z",
-                "open_issues": 4,
-                "owner": "dmsehgal",
-                "repo": "aiexpect",
-                "stars": 2,
-                "topics": [
-                  "ai-testing",
-                  "assertions",
-                  "chatbot",
-                  "hallucination",
-                  "llm",
-                  "llm-evaluation",
-                  "pytest",
-                  "python",
-                  "qa",
-                  "testing"
-                ]
-              },
-              "first_seen": "2026-09-25T07:43:50.718Z"
-            },
-            {
-              "node_type": "item",
-              "title": "flight-recorder",
-              "description": "Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A library that records a program's external inputs — database, HTTP, clock, randomness — and replays them, so any past run can be reproduced and debugged exactly.",
-                "homepage": null,
-                "id": 1294400957,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-25T08:41:03Z",
-                "open_issues": 7,
-                "owner": "xag",
-                "repo": "flight-recorder",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-09-14T07:52:06.300Z"
-            },
-            {
-              "node_type": "item",
-              "title": "fanout-check",
-              "description": "Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Offline timing contracts that catch agent and tool fan-out silently running sequentially. Dependency-free Python recorder, CLI, and CI checks.",
-                "homepage": null,
-                "id": 1405893762,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-21T02:47:31Z",
-                "open_issues": 1,
-                "owner": "sunxiuguo",
-                "repo": "fanout-check",
-                "stars": 1,
-                "topics": [
-                  "ai-agents",
-                  "asyncio",
-                  "cli",
-                  "concurrency",
-                  "python",
-                  "regression-testing"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
-            },
-            {
-              "node_type": "item",
               "title": "AgentSkeptic",
               "description": "Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.",
               "children": [],
@@ -878,6 +601,36 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
+            },
+            {
+              "node_type": "item",
+              "title": "geokit-cli",
+              "description": "Open-source CLI for automated AI search engine readiness testing, validation, and crawler access audits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "⚡ Official CLI for Generative Engine Optimization (GEO), llms.txt validation, and AI readiness audits.",
+                "homepage": null,
+                "id": 1337857078,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-09-08T02:36:29Z",
+                "open_issues": 0,
+                "owner": "gstar-byte",
+                "repo": "geokit-cli",
+                "stars": 0,
+                "topics": [
+                  "ai-seo",
+                  "chatgpt-search",
+                  "cli",
+                  "geo",
+                  "llms-txt",
+                  "perplexity",
+                  "seo",
+                  "webmaster-tools"
+                ]
+              },
+              "first_seen": "2026-10-28T08:23:56.352Z"
             }
           ],
           "description": null,
@@ -898,11 +651,11 @@
                 "id": 2544305,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T11:39:57Z",
-                "open_issues": 504,
+                "last_commit": "2026-10-28T04:03:32Z",
+                "open_issues": 506,
                 "owner": "wiremock",
                 "repo": "wiremock",
-                "stars": 7411,
+                "stars": 7412,
                 "topics": [
                   "apis",
                   "hacktoberfest",
@@ -931,8 +684,8 @@
                 "id": 8426406,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T07:05:46Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-28T07:40:34Z",
+                "open_issues": 0,
                 "owner": "mock-server",
                 "repo": "mockserver-monorepo",
                 "stars": 4999,
@@ -1076,74 +829,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MockForge",
-              "description": "Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source API mock server for REST, gRPC, GraphQL, WebSocket, Kafka, MQTT and more",
-                "homepage": "https://mockforge.dev",
-                "id": 1053111541,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-27T06:03:52Z",
-                "open_issues": 98,
-                "owner": "SaaSy-Solutions",
-                "repo": "mockforge",
-                "stars": 12,
-                "topics": [
-                  "api-mocking",
-                  "api-testing",
-                  "contract-testing",
-                  "graphql",
-                  "grpc",
-                  "http",
-                  "kafka",
-                  "mock-server",
-                  "mocking",
-                  "mqtt",
-                  "openapi",
-                  "rust",
-                  "service-virtualization",
-                  "testing",
-                  "websocket",
-                  "wiremock-alternative"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OutageFence",
-              "description": "Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "OutageFence by Slanta Cause — free local tests for data boundaries when dependencies fail.",
-                "homepage": "https://jn6825rsr7-afk.github.io/outagefence/",
-                "id": 1428783142,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-21T20:19:07Z",
-                "open_issues": 0,
-                "owner": "jn6825rsr7-afk",
-                "repo": "outagefence",
-                "stars": 0,
-                "topics": [
-                  "chaos-engineering",
-                  "cli",
-                  "developer-tools",
-                  "fault-injection",
-                  "mit-license",
-                  "nodejs",
-                  "privacy-testing",
-                  "testing"
-                ]
-              },
-              "first_seen": "2026-10-22T07:30:25.566Z"
             }
           ],
           "description": null,
@@ -1204,8 +889,8 @@
                 "id": 767591352,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T03:53:35Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-28T08:08:53Z",
+                "open_issues": 5,
                 "owner": "sherlo-io",
                 "repo": "sherlo",
                 "stars": 83,
@@ -1264,36 +949,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cloneproof",
-              "description": "Scores how closely a website clone matches the original (pixels, layout, style, scroll motion) with Playwright and lists the exact differences.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Don't ask your AI to clone a website. Make it prove it. Measures how close a clone is to the original (pixels, layout, style, motion) and gives your agent the exact prompt to fix it, in a loop.",
-                "homepage": null,
-                "id": 1425713250,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-23T12:17:47Z",
-                "open_issues": 4,
-                "owner": "pcjansen09-max",
-                "repo": "cloneproof",
-                "stars": 0,
-                "topics": [
-                  "ai-agents",
-                  "claude-code",
-                  "codex",
-                  "mcp",
-                  "playwright",
-                  "visual-regression",
-                  "web-scraping",
-                  "website-cloner"
-                ]
-              },
-              "first_seen": "2026-10-21T07:32:57.832Z"
             }
           ],
           "description": null,
@@ -1302,45 +957,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "Browser Use",
-              "description": "Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-                "homepage": "https://browser-use.com",
-                "id": 881458615,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-27T00:02:24Z",
-                "open_issues": 615,
-                "owner": "browser-use",
-                "repo": "browser-use",
-                "stars": 119249,
-                "topics": [
-                  "ai-agents",
-                  "ai-tools",
-                  "browser-agent",
-                  "browser-automation",
-                  "browser-use",
-                  "cdp",
-                  "cloud-browser",
-                  "computer-use",
-                  "headless-browser",
-                  "llm",
-                  "mcp",
-                  "playwright",
-                  "python",
-                  "remote-browser",
-                  "stealth-browser",
-                  "web-automation",
-                  "web-scraping"
-                ]
-              },
-              "first_seen": "2026-10-22T07:30:25.566Z"
-            },
             {
               "node_type": "item",
               "title": "QA Wolf",
@@ -1353,7 +969,7 @@
                 "id": 209153343,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T07:12:10Z",
+                "last_commit": "2026-10-27T18:54:44Z",
                 "open_issues": 16,
                 "owner": "qawolf",
                 "repo": "cli",
@@ -1384,8 +1000,8 @@
                 "id": 198371388,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-26T18:16:48Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-27T13:30:54Z",
+                "open_issues": 3,
                 "owner": "rubycdp",
                 "repo": "ferrum",
                 "stars": 2069,
@@ -1413,11 +1029,11 @@
                 "id": 1232101800,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T05:04:24Z",
+                "last_commit": "2026-10-27T11:19:18Z",
                 "open_issues": 39,
                 "owner": "jo-duchan",
                 "repo": "tapflow",
-                "stars": 1318,
+                "stars": 1343,
                 "topics": [
                   "android",
                   "android-emulator",
@@ -1459,7 +1075,7 @@
                 "open_issues": 16,
                 "owner": "test-zeus-ai",
                 "repo": "testzeus-hercules",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -1486,7 +1102,7 @@
             {
               "node_type": "item",
               "title": "agent-qa",
-              "description": "Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.",
+              "description": "Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1499,7 +1115,7 @@
                 "open_issues": 6,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 896,
+                "stars": 900,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1569,7 +1185,7 @@
                 "open_issues": 12,
                 "owner": "ai-dashboad",
                 "repo": "flutter-skill",
-                "stars": 395,
+                "stars": 398,
                 "topics": [
                   "ai",
                   "ai-testing",
@@ -1594,127 +1210,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Device Hub Pro",
-              "description": "Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Android and iOS devices, side by side on your Mac. Mirror, control, change settings and capture — free and open source.",
-                "homepage": "https://gitemre.github.io/device-hub-pro/",
-                "id": 1406950574,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-22T10:23:42Z",
-                "open_issues": 0,
-                "owner": "gitemre",
-                "repo": "device-hub-pro",
-                "stars": 143,
-                "topics": [
-                  "adb",
-                  "android",
-                  "android-emulator",
-                  "developer-tools",
-                  "device-control",
-                  "device-manager",
-                  "emulator",
-                  "foldable",
-                  "ios",
-                  "ios-simulator",
-                  "iphone",
-                  "iphone-duo",
-                  "macos",
-                  "mobile-testing",
-                  "qa-tools",
-                  "scrcpy-alternative",
-                  "simulator",
-                  "swift",
-                  "swiftui",
-                  "xcode"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
-            },
-            {
-              "node_type": "item",
-              "title": "assay",
-              "description": "Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An agent-native QA CLI for web pages. Deterministic, no tests to write, no LLM.",
-                "homepage": "https://pypi.org/project/assay-ui/",
-                "id": 1374678764,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-19T00:01:24Z",
-                "open_issues": 0,
-                "owner": "awss1i",
-                "repo": "assay",
-                "stars": 109,
-                "topics": [
-                  "agentic-ai",
-                  "ai-agents",
-                  "browser-automation",
-                  "claude-code",
-                  "claude-code-mod",
-                  "cli",
-                  "code-generation",
-                  "developer-tools",
-                  "end-to-end-testing",
-                  "llm",
-                  "playwright",
-                  "python",
-                  "qa",
-                  "test-automation",
-                  "testing",
-                  "ui-testing"
-                ]
-              },
-              "first_seen": "2026-10-08T08:54:03.565Z"
-            },
-            {
-              "node_type": "item",
-              "title": "vibe-testing",
-              "description": "Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code-aware browser testing for AI coding agents. 14 MCP tools, CLI workflows, regression memory, and human-readable QA reports.",
-                "homepage": "https://testing.tfgstudio.com/",
-                "id": 1211171079,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-15T17:17:13Z",
-                "open_issues": 0,
-                "owner": "AishwaryShrivastav",
-                "repo": "vibe-testing",
-                "stars": 17,
-                "topics": [
-                  "ai-agent",
-                  "ai-testing",
-                  "ai-tools",
-                  "browser-testing",
-                  "claude-code",
-                  "cursor",
-                  "cursor-ide",
-                  "e2e-testing",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "npx",
-                  "playwright",
-                  "qa",
-                  "test-automation",
-                  "testing",
-                  "typescript",
-                  "vibe-coding",
-                  "windsurf"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
             },
             {
               "node_type": "item",
@@ -1792,42 +1287,6 @@
             },
             {
               "node_type": "item",
-              "title": "App Crash Lab",
-              "description": "MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Reproducible developer tools: Agent Relay Check tests Codex startup guidance receipts; App Crash Lab checks save/reload failures. Measured examples. MIT.",
-                "homepage": "https://github.com/aichance/business-ai-recipes/releases/latest",
-                "id": 1407239185,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-27T06:55:50Z",
-                "open_issues": 22,
-                "owner": "aichance",
-                "repo": "business-ai-recipes",
-                "stars": 5,
-                "topics": [
-                  "backup-and-restore",
-                  "codex",
-                  "codex-skills",
-                  "data-integrity",
-                  "demo-video",
-                  "developer-tools",
-                  "end-to-end-testing",
-                  "gif",
-                  "indexeddb",
-                  "local-first",
-                  "localstorage",
-                  "playwright",
-                  "regression-testing",
-                  "screen-recording"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
-            },
-            {
-              "node_type": "item",
               "title": "qmax-mcp",
               "description": "MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.",
               "children": [],
@@ -1852,151 +1311,11 @@
                 ]
               },
               "first_seen": "2026-09-02T07:04:15.128Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ai-wright",
-              "description": "Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Vision-enabled AI steps for Playwright tests. Bring your own LLM: OpenAI, Claude, Gemini or TestChimp.",
-                "homepage": "https://testchimp.io",
-                "id": 1092075801,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-14T09:27:25Z",
-                "open_issues": 0,
-                "owner": "TestChimp",
-                "repo": "ai-wright",
-                "stars": 1,
-                "topics": [
-                  "ai-testing",
-                  "claude",
-                  "e2e-testing",
-                  "gemini",
-                  "llm",
-                  "openai",
-                  "playwright",
-                  "set-of-marks",
-                  "test-automation",
-                  "testing"
-                ]
-              },
-              "first_seen": "2026-10-08T08:54:03.565Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Drengr Runner",
-              "description": "Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Drive an iOS simulator over HTTP. 479 lines of Swift, no WebDriverAgent.",
-                "homepage": "https://drengr.dev",
-                "id": 1331986288,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-16T21:12:16Z",
-                "open_issues": 0,
-                "owner": "SharminSirajudeen",
-                "repo": "drengr-runner",
-                "stars": 1,
-                "topics": [
-                  "appium-alternative",
-                  "ios",
-                  "ios-simulator",
-                  "mobile-testing",
-                  "swift",
-                  "test-automation",
-                  "ui-testing",
-                  "webdriveragent",
-                  "xcuitest"
-                ]
-              },
-              "first_seen": "2026-09-14T07:52:06.300Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Proxy QA Browser",
-              "description": "Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free, open-source desktop QA browser for testing your own website forms by US location (state, city, ZIP), emulated device and browser. Windows, Linux, macOS.",
-                "homepage": "https://proxybrowser.ubaidbinwaris.com",
-                "id": 1402372794,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-22T03:56:44Z",
-                "open_issues": 12,
-                "owner": "UbaidBinWaris",
-                "repo": "proxy_browser",
-                "stars": 1,
-                "topics": [
-                  "accessibility-testing",
-                  "axe-core",
-                  "browser-testing",
-                  "cross-browser-testing",
-                  "desktop-app",
-                  "device-emulation",
-                  "electron",
-                  "form-testing",
-                  "geolocation-testing",
-                  "localization-testing",
-                  "mcp-server",
-                  "playwright",
-                  "qa-automation",
-                  "qa-testing",
-                  "responsive-testing",
-                  "tcpa",
-                  "test-automation",
-                  "typescript",
-                  "visual-regression-testing",
-                  "website-testing"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "UI & End-to-End Testing"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "junit-collision-check",
-              "description": "Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Catch duplicate JUnit test identities and conflicting outcomes across shard and retry reports. Offline, read-only Python CLI with no runtime dependencies.",
-                "homepage": null,
-                "id": 1405886946,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-22T23:52:46Z",
-                "open_issues": 3,
-                "owner": "sunxiuguo",
-                "repo": "junit-collision-check",
-                "stars": 0,
-                "topics": [
-                  "cli",
-                  "continuous-integration",
-                  "junit",
-                  "junit-xml",
-                  "python",
-                  "test-reports"
-                ]
-              },
-              "first_seen": "2026-10-23T07:25:53.827Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Test Report Diagnostics"
         },
         {
           "children": [
@@ -2016,7 +1335,7 @@
                 "open_issues": 51,
                 "owner": "TestLinkOpenSourceTRMS",
                 "repo": "testlink-code",
-                "stars": 1624,
+                "stars": 1625,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
@@ -2033,11 +1352,11 @@
                 "id": 92381207,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-27T03:03:02Z",
-                "open_issues": 117,
+                "last_commit": "2026-10-27T11:35:23Z",
+                "open_issues": 115,
                 "owner": "kiwitcms",
                 "repo": "Kiwi",
-                "stars": 1282,
+                "stars": 1283,
                 "topics": [
                   "management",
                   "qa",
@@ -2149,7 +1468,7 @@
                 "id": 1264473275,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T03:31:23Z",
+                "last_commit": "2026-10-28T01:48:02Z",
                 "open_issues": 1,
                 "owner": "sealandseacat",
                 "repo": "dbmask",
@@ -2228,11 +1547,11 @@
                 "id": 900760746,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T07:20:01Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-28T07:34:00Z",
+                "open_issues": 42,
                 "owner": "rapiddweller",
                 "repo": "datamimic",
-                "stars": 117,
+                "stars": 116,
                 "topics": [
                   "data-anonymization",
                   "data-generation",
@@ -2252,40 +1571,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Checklist kiểm thử Web tiếng Việt",
-              "description": "Vietnamese-language web form and login testing checklist with copy-paste Vietnamese test data (diacritics, NFC/NFD, +84 phone numbers).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Checklist kiểm thử Web tiếng Việt 27 mục + công cụ tạo test case miễn phí",
-                "homepage": "https://qakit-vn.github.io/qakit/tao-test-case.html",
-                "id": 1432890885,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-10-25T15:01:55Z",
-                "open_issues": 0,
-                "owner": "qakit-vn",
-                "repo": "checklist-kiem-thu-web",
-                "stars": 0,
-                "topics": [
-                  "checklist",
-                  "manual-testing",
-                  "qa",
-                  "qa-checklist",
-                  "software-testing",
-                  "test-cases",
-                  "test-data",
-                  "testing",
-                  "tieng-viet",
-                  "vietnam",
-                  "vietnamese",
-                  "web-testing"
-                ]
-              },
-              "first_seen": "2026-10-27T07:46:05.439Z"
             },
             {
               "node_type": "item",
@@ -2318,40 +1603,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "postal-code-formats",
-              "description": "Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Postal code formats, validation regexes and 9,000 real sample codes for 31 countries. Every regex verified against the samples in CI. Zero dependencies.",
-                "homepage": "https://fakenamely.com/blog/postal-code-formats-worldwide",
-                "id": 1372355217,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-09-16T01:51:45Z",
-                "open_issues": 0,
-                "owner": "vinceblock99",
-                "repo": "postal-code-formats",
-                "stars": 0,
-                "topics": [
-                  "address-validation",
-                  "dataset",
-                  "form-validation",
-                  "geonames",
-                  "i18n",
-                  "javascript",
-                  "open-data",
-                  "postal-code",
-                  "postcode",
-                  "regex",
-                  "test-data",
-                  "zip-code"
-                ]
-              },
-              "first_seen": "2026-09-26T07:36:52.491Z"
             }
           ],
           "description": null,
@@ -2360,48 +1611,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "Oh My Android",
-              "description": "Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free ADB GUI and Android Emulator control panel for macOS. One click for dark mode, font scale, RTL and pseudo-locales, TalkBack, layout bounds, network speed and GPS: no adb commands. Layout Inspector in dp for any app (Compose and Views) with Figma overlay and TalkBack-order audit. Plus an MCP server for AI agents.",
-                "homepage": "https://royan.se/work/oh-my-android/",
-                "id": 1385064931,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-27T05:00:08Z",
-                "open_issues": 2,
-                "owner": "ateymoori",
-                "repo": "oh-my-android",
-                "stars": 69,
-                "topics": [
-                  "accessibility",
-                  "adb",
-                  "android",
-                  "android-development",
-                  "android-emulator",
-                  "android-studio",
-                  "android-testing",
-                  "android-tools",
-                  "claude-code",
-                  "dark-mode",
-                  "developer-tools",
-                  "emulator",
-                  "jetpack-compose",
-                  "localization",
-                  "macos",
-                  "macos-app",
-                  "mcp",
-                  "mcp-server",
-                  "mobile-testing",
-                  "rtl"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
-            },
             {
               "node_type": "item",
               "title": "VertaaUX CLI",
@@ -2447,79 +1656,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "k6",
-              "description": "Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A modern load testing tool, using Go and JavaScript",
-                "homepage": "https://grafana.com/oss/k6/",
-                "id": 54400687,
-                "language": "Go",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-10-26T15:47:13Z",
-                "open_issues": 766,
-                "owner": "grafana",
-                "repo": "k6",
-                "stars": 32059,
-                "topics": [
-                  "es6",
-                  "go",
-                  "golang",
-                  "hacktoberfest",
-                  "javascript",
-                  "k6",
-                  "load-generator",
-                  "load-testing",
-                  "performance"
-                ]
-              },
-              "first_seen": "2026-09-26T07:36:52.491Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Locust Kubernetes Operator",
-              "description": "Run distributed Locust load tests on Kubernetes with a LocustTest CRD.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Locust Kubernetes operator: run distributed Locust load tests on Kubernetes with a LocustTest CRD. Helm chart, OpenTelemetry, OpenShift support.",
-                "homepage": "https://abdelrhmanhamouda.github.io/locust-k8s-operator/",
-                "id": 534245046,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-22T14:04:09Z",
-                "open_issues": 11,
-                "owner": "AbdelrhmanHamouda",
-                "repo": "locust-k8s-operator",
-                "stars": 93,
-                "topics": [
-                  "ci",
-                  "cloud",
-                  "crd",
-                  "devops",
-                  "distributed-load-testing",
-                  "golang",
-                  "helm-chart",
-                  "k8s",
-                  "kubernetes",
-                  "kubernetes-operator",
-                  "load-testing",
-                  "load-testing-tool",
-                  "locust",
-                  "locust-operator",
-                  "openshift",
-                  "opentelemetry",
-                  "operator",
-                  "performance",
-                  "performance-testing",
-                  "stress-testing"
-                ]
-              },
-              "first_seen": "2026-10-08T08:54:03.565Z"
-            },
-            {
-              "node_type": "item",
               "title": "Load Testing Hub Panel",
               "description": "Ultimate web UI for visualizing load test results",
               "children": [],
@@ -2552,40 +1688,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "check-proxy-tax",
-              "description": "Zero-dependency CLI that samples a URL concurrently, then reports the 403 retry tax: usable-response rate and effective cost per 1,000 usable responses instead of the nominal per-1,000 price.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Zero-dependency Python CLI that measures the real cost of proxies and anti-bot walls: usable-response rate, the 403 retry tax and effective cost per 1,000 clean pages.",
-                "homepage": "https://scrape.mybskm.top/calculator/",
-                "id": 1424569804,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-27T03:23:26Z",
-                "open_issues": 0,
-                "owner": "600me",
-                "repo": "check-proxy-tax",
-                "stars": 0,
-                "topics": [
-                  "anti-bot",
-                  "benchmark",
-                  "cli",
-                  "cloudflare",
-                  "cost-calculator",
-                  "devtools",
-                  "proxy",
-                  "python",
-                  "rag",
-                  "residential-proxies",
-                  "scraper",
-                  "web-scraping"
-                ]
-              },
-              "first_seen": "2026-10-24T07:14:58.835Z"
             }
           ],
           "description": null,
@@ -2606,11 +1708,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T07:13:25Z",
-                "open_issues": 247,
+                "last_commit": "2026-10-28T07:12:01Z",
+                "open_issues": 245,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10701,
+                "stars": 10739,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -2688,8 +1790,8 @@
                 "id": 104130720,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-20T12:07:34Z",
-                "open_issues": 126,
+                "last_commit": "2026-10-27T19:04:51Z",
+                "open_issues": 128,
                 "owner": "bats-core",
                 "repo": "bats-core",
                 "stars": 6332,
@@ -2718,11 +1820,11 @@
                 "id": 1138269866,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T22:41:13Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-28T06:01:06Z",
+                "open_issues": 64,
                 "owner": "jumpstarter-dev",
                 "repo": "jumpstarter",
-                "stars": 229,
+                "stars": 232,
                 "topics": [
                   "agentic",
                   "android",
@@ -2759,8 +1861,8 @@
                 "id": 957803471,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T07:45:23Z",
-                "open_issues": 78,
+                "last_commit": "2026-10-28T07:10:57Z",
+                "open_issues": 75,
                 "owner": "mozarkai",
                 "repo": "optics-framework",
                 "stars": 63,
@@ -2836,7 +1938,7 @@
                 "id": 1113888068,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-26T18:10:25Z",
+                "last_commit": "2026-10-28T06:11:54Z",
                 "open_issues": 19,
                 "owner": "aiqualitylab",
                 "repo": "ai-natural-language-tests",
@@ -2863,80 +1965,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:18:49.444Z"
-            },
-            {
-              "node_type": "item",
-              "title": "behave",
-              "description": "Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Record how any CLI behaves (flags, stdin, exit codes, edge cases) and prove your Rust/Go rewrite behaves the same. CLI + MCP server.",
-                "homepage": null,
-                "id": 1418093076,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-10-26T19:11:25Z",
-                "open_issues": 0,
-                "owner": "emirmrkaljevic",
-                "repo": "behave",
-                "stars": 4,
-                "topics": [
-                  "black-box-testing",
-                  "cli",
-                  "compatibility-testing",
-                  "coreutils",
-                  "differential-testing",
-                  "golang",
-                  "golden-tests",
-                  "mcp",
-                  "mcp-server",
-                  "regression-testing",
-                  "rewrite",
-                  "rust",
-                  "snapshot-testing",
-                  "testing",
-                  "uutils"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VeriSpec",
-              "description": "Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Spec-Driven Quality Engineering Framework. Turn specs into traceable test strategies, native tests, live reporting, and release evidence.",
-                "homepage": "https://www.npmjs.com/package/verispec",
-                "id": 1406018820,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-21T18:00:05Z",
-                "open_issues": 0,
-                "owner": "godikemahesh",
-                "repo": "verispec",
-                "stars": 1,
-                "topics": [
-                  "bdd",
-                  "claude-code",
-                  "copilot",
-                  "cursor",
-                  "k6",
-                  "playwright",
-                  "pytest",
-                  "quality-engineering",
-                  "regression-testing",
-                  "spec-driven-development",
-                  "spec-kit",
-                  "tdd",
-                  "test-automation",
-                  "testing",
-                  "traceability"
-                ]
-              },
-              "first_seen": "2026-10-22T07:30:25.566Z"
             }
           ],
           "description": null,
@@ -2957,11 +1985,11 @@
                 "id": 151843254,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T14:04:38Z",
-                "open_issues": 430,
+                "last_commit": "2026-10-27T21:19:05Z",
+                "open_issues": 433,
                 "owner": "rrweb-io",
                 "repo": "rrweb",
-                "stars": 20310,
+                "stars": 20313,
                 "topics": [
                   "fullstory",
                   "hotjar",
@@ -2988,7 +2016,7 @@
                 "open_issues": 125,
                 "owner": "MathewSachin",
                 "repo": "Captura",
-                "stars": 10867,
+                "stars": 10868,
                 "topics": [
                   "capture",
                   "chocolatey",
@@ -3013,52 +2041,6 @@
           "description": null,
           "node_type": "group",
           "title": "Screen Recording & Session Replays"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SmartBench",
-              "description": "Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "证据约束的代码诊断工作台：确定性静态分析拥有源码事实，LLM 只提假设，resolver/validator 决定能否绑定回真实操作——证据不足保持 unknown/abstained，从架构抑制幻觉。已在真实开源项目发现 bug（stunner #89 已被上游确认修复）。Python。",
-                "homepage": "https://xianyu-sheng.github.io/SmartBench/",
-                "id": 1209430217,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-24T10:11:56Z",
-                "open_issues": 18,
-                "owner": "xianyu-sheng",
-                "repo": "SmartBench",
-                "stars": 3,
-                "topics": [
-                  "benchmark",
-                  "bug-detection",
-                  "code-analysis",
-                  "code-quality",
-                  "debate",
-                  "evidence",
-                  "evidence-checking",
-                  "hallucination-detection",
-                  "llm",
-                  "llm-agent",
-                  "multi-agent",
-                  "python",
-                  "rag",
-                  "sast",
-                  "security",
-                  "static-analysis",
-                  "verification"
-                ]
-              },
-              "first_seen": "2026-10-20T07:28:56.509Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Static Analysis"
         }
       ],
       "title": "Software"
@@ -3168,7 +2150,7 @@
                 "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27800,
+                "stars": 27804,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3251,7 +2233,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 525313,
+                "stars": 525929,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3278,7 +2260,7 @@
                 "open_issues": 374,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 15040,
+                "stars": 15041,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -3302,7 +2284,7 @@
                 "open_issues": 44,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7122,
+                "stars": 7123,
                 "topics": [
                   "application-security",
                   "curated",
@@ -3384,7 +2366,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -3441,7 +2423,7 @@
                 "open_issues": 2,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -3467,11 +2449,11 @@
                 "id": 1227214087,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-29T06:14:14Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-27T20:10:05Z",
+                "open_issues": 8,
                 "owner": "tugkanboz",
                 "repo": "awesome-ai-testing",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "ai-test-automation",
                   "ai-testing",
@@ -3666,7 +2648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T07:46:05.439Z",
+    "last_updated": "2026-10-28T08:23:56.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of testing resources",
@@ -3674,11 +2656,11 @@
       "id": 77133957,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-26T09:09:49Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-27T20:48:17Z",
+      "open_issues": 4,
       "owner": "TheJambo",
       "repo": "awesome-testing",
-      "stars": 2403,
+      "stars": 2405,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3688,7 +2670,7 @@
         "testing"
       ]
     },
-    "original_repository_sha": "20480ebe1852b7996b8318a024325859ce1131e3",
+    "original_repository_sha": "6edd0b035c7c8038a28f08c2a60e6d267cff47da",
     "enhanced_repository": "enhansome/enhansome-testing",
     "enhanced_repository_description": null,
     "title": "Awesome Testing with stars"
