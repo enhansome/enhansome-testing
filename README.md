@@ -28,16 +28,17 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### API Testing
 
-* [Bruno](https://github.com/usebruno/bruno) ⭐ 47,984 | 🐛 1,955 | 🌐 JavaScript | 📅 2026-11-02 - Open-source API client for exploring and testing APIs.
-* [Keploy](https://github.com/keploy/keploy) ⭐ 19,013 | 🐛 833 | 🌐 Go | 📅 2026-11-02 - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+* [Bruno](https://github.com/usebruno/bruno) ⭐ 48,002 | 🐛 1,954 | 🌐 JavaScript | 📅 2026-11-03 - Open-source API client for exploring and testing APIs.
+* [Keploy](https://github.com/keploy/keploy) ⭐ 19,203 | 🐛 839 | 🌐 Go | 📅 2026-11-03 - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 * [RestQA](https://github.com/restqa/restqa) ⭐ 93 | 🐛 18 | 🌐 JavaScript | 📅 2024-09-13 - REST API testing framework based on Gherkin.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 28 | 🐛 5 | 🌐 Go | 📅 2026-11-02 - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 28 | 🐛 5 | 🌐 Go | 📅 2026-11-03 - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
 * [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2026-09-26 - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 * [SpecTest](https://github.com/justiceo/spectest) ⭐ 21 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-04 - Truly declarative API testing framework in Js, or plain JSON.
 * [postman2pytest](https://github.com/golikovichev/postman2pytest) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
-* [Webhook Debugger](https://github.com/brancogao/webhook-debugger) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-17 - Open-source, self-hosted webhook inspector with signature verification support.
-* [Tests Coverage Tool](https://github.com/Nikita-Filonov/tests-coverage-tool) ⭐ 12 | 🐛 1 | 🌐 HTML | 📅 2026-10-13 - Ultimate tool to measure gRPC service coverage from tests.
-* [Openhook](https://github.com/openhook-dev/openhook-inbox) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - Open-source webhook inbox for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.
+* [Webhook Debugger](https://github.com/brancogao/webhook-debugger) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-17 - Open-source, self-hosted webhook inspector with signature verification support.
+* [Tests Coverage Tool](https://github.com/Nikita-Filonov/tests-coverage-tool) ⭐ 12 | 🐛 1 | 🌐 HTML | 📅 2026-11-02 - Ultimate tool to measure gRPC service coverage from tests.
+* [Bifurc](https://github.com/HarshalKudale/bifurc) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-11-02 - Local-first API client, mock server and traffic proxy for macOS, Windows and Linux, with a CLI for CI.
+* [Openhook](https://github.com/openhook-dev/openhook-inbox) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-03 - Open-source webhook inbox for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.
 * [API Spector](https://api-spector.dev) - Open-source API clien, mock server and contract testing tool. Zero telemetry.
 * [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
 * [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relevant tests are conducted with our long running agent setup.
@@ -54,38 +55,38 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security Testing
 
-* [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) ⭐ 32,533 | 🐛 95 | 🌐 Go | 📅 2026-11-02 - nuclei is automated scanner for common vulnerability finding on site.
-* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 16,093 | 🐛 874 | 🌐 Java | 📅 2026-11-02 - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,185 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+* [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) ⭐ 32,558 | 🐛 88 | 🌐 Go | 📅 2026-11-03 - nuclei is automated scanner for common vulnerability finding on site.
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 16,096 | 🐛 874 | 🌐 Java | 📅 2026-11-02 - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,199 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 * [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 * [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 
 ### AI & LLM Testing
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,730 | 🐛 898 | 🌐 TypeScript | 📅 2026-11-02 - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
-* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 295 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
-* [nika](https://github.com/supernovae-st/nika) ⭐ 96 | 🐛 28 | 🌐 Rust | 📅 2026-10-31 - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 26,771 | 🐛 906 | 🌐 TypeScript | 📅 2026-11-03 - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 296 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
+* [nika](https://github.com/supernovae-st/nika) ⭐ 97 | 🐛 29 | 🌐 Rust | 📅 2026-10-31 - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 85 | 🐛 0 | 📅 2026-10-01 - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
-* [voicetest](https://github.com/voicetestdev/voicetest) ⭐ 41 | 🐛 12 | 🌐 Python | 📅 2026-10-21 - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+* [voicetest](https://github.com/voicetestdev/voicetest) ⭐ 40 | 🐛 10 | 🌐 Python | 📅 2026-11-03 - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 * [Evaliphy](https://github.com/evaliphy/evaliphy) ⭐ 18 | 🐛 12 | 🌐 TypeScript | 📅 2026-05-07 - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
 * [Tenro](https://github.com/tenro-ai/tenro-python) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-06-09 - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 * [crilio](https://github.com/mukundzha/crilio) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - An open-source Python CLI that uses LLM-as-a-Judge to automate semantic regression testing for LLM prompts in CI/CD, blocking GitHub PRs that cause hallucinations or break formatting rules. Supports OpenAI, Anthropic, and local Ollama models.
 * [aiexpect](https://github.com/dmsehgal/aiexpect) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-09-14 - Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.
 * [flight-recorder](https://github.com/xag/flight-recorder) ⭐ 1 | 🐛 7 | 🌐 Python | 📅 2026-11-01 - Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.
 * [fanout-check](https://github.com/sunxiuguo/fanout-check) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-10-21 - Offline Python library and CLI that checks observed concurrency, overlap, and launch timing in explicitly grouped tool or agent calls.
-* [Bite](https://github.com/connabyss/bite) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-11-02 - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
+* [Bite](https://github.com/connabyss/bite) ⭐ 1 | 🐛 9 | 🌐 Python | 📅 2026-11-03 - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
 * [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-03 - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 * [geokit-cli](https://github.com/gstar-byte/geokit-cli) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-08 - Open-source CLI for automated AI search engine readiness testing, `/llms.txt` validation, and crawler access audits.
 * [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
 
 ### Service Virtualization
 
-* [WireMock](https://github.com/wiremock/wiremock) ⭐ 7,415 | 🐛 506 | 🌐 Java | 📅 2026-11-02 - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
-* [MockServer](https://github.com/mock-server/mockserver-monorepo) ⭐ 5,003 | 🐛 2 | 🌐 Java | 📅 2026-11-01 - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
-* [fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 776 | 🐛 8 | 🌐 Rust | 📅 2026-10-31 - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+* [WireMock](https://github.com/wiremock/wiremock) ⭐ 7,416 | 🐛 506 | 🌐 Java | 📅 2026-11-02 - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
+* [MockServer](https://github.com/mock-server/mockserver-monorepo) ⭐ 5,003 | 🐛 3 | 🌐 Java | 📅 2026-11-03 - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
+* [fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 777 | 🐛 9 | 🌐 Rust | 📅 2026-11-02 - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 * [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) ⭐ 524 | 🐛 8 | 🌐 Java | 📅 2022-08-05 - Web server using HTTP dumps as a response source for API simulation.
-* [mockd](https://github.com/getmockd/mockd) ⭐ 152 | 🐛 12 | 🌐 Go | 📅 2026-09-17 - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
-* [MockForge](https://github.com/SaaSy-Solutions/mockforge) ⭐ 12 | 🐛 53 | 🌐 Rust | 📅 2026-11-02 - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
+* [mockd](https://github.com/getmockd/mockd) ⭐ 154 | 🐛 12 | 🌐 Go | 📅 2026-09-17 - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+* [MockForge](https://github.com/SaaSy-Solutions/mockforge) ⭐ 13 | 🐛 56 | 🌐 Rust | 📅 2026-11-03 - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
 * [ghostwire](https://github.com/nanmuyao-tools/ghostwire) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-31 - Open-source Linux tool that mocks ping, TCP connections, UDP errors and DNS per target address, with delay, jitter, loss and faults controllable live through an HTTP API; no proxy to point your program at, no root needed under `exec`.
 * [OutageFence](https://github.com/jn6825rsr7-afk/outagefence) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-21 - Local HTTP fault-injection CLI by Slanta Cause that checks synthetic sensitive data against declared destination rules, with positive controls and offline reports.
 * [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
@@ -111,24 +112,24 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### UI & End-to-End Testing
 
-* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 119,806 | 🐛 617 | 🌐 Python | 📅 2026-11-02 - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
-* [QA Wolf](https://github.com/qawolf/qawolf) ⭐ 3,459 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-01 - Node.js library for creating browser tests faster.
+* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 119,907 | 🐛 620 | 🌐 Python | 📅 2026-11-02 - Open-source (MIT) Python AI agent that runs plain-English tasks in a real browser. Browser Use Cloud adds hosted stealth Chromium you can drive over CDP from Playwright, Puppeteer or Selenium, with session recordings and live view.
+* [QA Wolf](https://github.com/qawolf/qawolf) ⭐ 3,459 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-02 - Node.js library for creating browser tests faster.
 * [Ferrum](https://github.com/rubycdp/ferrum) ⭐ 2,070 | 🐛 3 | 🌐 Ruby | 📅 2026-11-01 - Chrome automation via CDP with a high-level Ruby API.
-* [tapflow](https://github.com/jo-duchan/tapflow) ⭐ 1,485 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-01 - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
-* [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) ⭐ 1,210 | 🐛 29 | 🌐 Python | 📅 2026-10-29 - Open-source end-to-end testing agent.
-* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 915 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-02 - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
-* [playwright-bdd](https://github.com/vitalets/playwright-bdd) ⭐ 823 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-26 - BDD-style Playwright testing.
+* [tapflow](https://github.com/jo-duchan/tapflow) ⭐ 1,545 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-01 - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+* [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) ⭐ 1,211 | 🐛 29 | 🌐 Python | 📅 2026-10-29 - Open-source end-to-end testing agent.
+* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 920 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-03 - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
+* [playwright-bdd](https://github.com/vitalets/playwright-bdd) ⭐ 824 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-26 - BDD-style Playwright testing.
 * [flutter-skill](https://github.com/ai-dashboad/flutter-skill) ⭐ 399 | 🐛 12 | 🌐 Dart | 📅 2026-09-01 - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
-* [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 156 | 🐛 0 | 🌐 Swift | 📅 2026-10-22 - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
+* [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 158 | 🐛 0 | 🌐 Swift | 📅 2026-10-22 - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
 * [assay](https://github.com/awss1i/assay) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-10-31 - Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.
-* [vibe-testing](https://github.com/AishwaryShrivastav/vibe-testing) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15 - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
+* [vibe-testing](https://github.com/AishwaryShrivastav/vibe-testing) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15 - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
 * [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2026-09-27 - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 * [Waterfall AI Test](https://github.com/jiongfeng/waterfall-ai-test-platform) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-09-20 - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
-* [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-01 - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
+* [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-02 - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
 * [ai-wright](https://github.com/TestChimp/ai-wright) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-14 - Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.
 * [Drengr Runner](https://github.com/SharminSirajudeen/drengr-runner) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-10-16 - Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.
 * [Proxy QA Browser](https://github.com/UbaidBinWaris/proxy_browser) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-30 - Free, open-source desktop app to test your own web forms by US location, emulated device and browser, with recorded scenarios, consent and accessibility checks, and a CI runner.
-* [mendwright](https://github.com/saadbuilt/mendwright) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.
+* [mendwright](https://github.com/saadbuilt/mendwright) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-03 - Self-healing selectors for Playwright and Selenium in Python. Repairs a broken selector from a saved fingerprint of the element, asks a model only when that isn't enough, checks the repair on the live page and can write it back into your code.
 * [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
 * [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 * [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
@@ -155,7 +156,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Management
 
 * [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) ⭐ 1,625 | 🐛 51 | 🌐 PHP | 📅 2025-12-08 - Open-source test case management system.
-* [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) ⭐ 1,283 | 🐛 115 | 🌐 Python | 📅 2026-11-02 - Open-source test case management.
+* [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) ⭐ 1,284 | 🐛 116 | 🌐 Python | 📅 2026-11-03 - Open-source test case management.
 * [skipper](https://github.com/get-skipper/skipper) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 * [qarunbook](https://qarunbook.com) - Free shared test runbook where testers record a pass or fail per platform with screenshots, and an issue marked fixed sends the check back for a retest.
 * [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
@@ -205,7 +206,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Accessibility & Usability Testing
 
-* [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 76 | 🐛 3 | 🌐 Swift | 📅 2026-11-01 - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
+* [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 76 | 🐛 3 | 🌐 Swift | 📅 2026-11-02 - Free, open-source macOS app for checking Android apps on emulators and phones in dark mode, large font sizes, RTL and TalkBack, with a TalkBack-order accessibility audit.
 * [VertaaUX CLI](https://github.com/VertaaUX/cli) ⭐ 0 | 🐛 0 | 📅 2026-06-17 - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 * [A11yKit](https://a11ykit.site) - 15 free client-side web accessibility and WCAG 2.2 color contrast testing tools with zero code uploads.
 * [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Runs 12 deterministic HTML checks on a page against WCAG 2.2 and returns the matching criterion and a suggested fix for each finding, then turns them into a printable report an agency can hand to its client. Free instant scan; the full report is a one-off $29.
@@ -221,7 +222,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Performance & Load Testing
 
-* [k6](https://github.com/grafana/k6) ⭐ 32,102 | 🐛 771 | 🌐 Go | 📅 2026-10-29 - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
+* [k6](https://github.com/grafana/k6) ⭐ 32,110 | 🐛 764 | 🌐 Go | 📅 2026-11-03 - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
 * [Locust Kubernetes Operator](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) ⭐ 93 | 🐛 11 | 🌐 Go | 📅 2026-10-22 - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
 * [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - Ultimate web UI for visualizing load test results
 * [telegym](https://github.com/kolomiichenko/telegym) ⭐ 5 | 🐛 11 | 🌐 Go | 📅 2026-10-29 - Load testing for Telegram bots: a drop-in Bot API mock plus a k6 extension that drives virtual users.
@@ -231,7 +232,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Web3 & Blockchain Testing
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,747 | 🐛 302 | 🌐 Rust | 📅 2026-11-02 - Fast, modular toolkit for Ethereum development.
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,751 | 🐛 293 | 🌐 Rust | 📅 2026-11-03 - Fast, modular toolkit for Ethereum development.
 * [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) ⭐ 13 | 🐛 14 | 🌐 HTML | 📅 2026-08-10 - Robot Framework integration for Solidity testing.
 * [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
 * [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
@@ -241,20 +242,21 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Automation Frameworks
 
-* [Bats](https://github.com/bats-core/bats-core) ⭐ 6,336 | 🐛 128 | 🌐 Shell | 📅 2026-11-01 - Bash Automated Testing System.
-* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 233 | 🐛 70 | 🌐 Python | 📅 2026-11-02 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
-* [optics-framework](https://github.com/mozarkai/optics-framework) ⭐ 65 | 🐛 79 | 🌐 Python | 📅 2026-11-02 - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
+* [Bats](https://github.com/bats-core/bats-core) ⭐ 6,339 | 🐛 128 | 🌐 Shell | 📅 2026-11-01 - Bash Automated Testing System.
+* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 233 | 🐛 72 | 🌐 Python | 📅 2026-11-03 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+* [optics-framework](https://github.com/mozarkai/optics-framework) ⭐ 65 | 🐛 82 | 🌐 Python | 📅 2026-11-03 - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 * [OpenTester](https://github.com/kznr02/OpenTester) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-03-23 - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
-* [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) ⭐ 27 | 🐛 14 | 🌐 Python | 📅 2026-11-01 - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
-* [behave](https://github.com/emirmrkaljevic/behave) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2026-11-02 - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
+* [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) ⭐ 28 | 🐛 13 | 🌐 Python | 📅 2026-11-03 - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
+* [behave](https://github.com/emirmrkaljevic/behave) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2026-11-03 - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
 * [VeriSpec](https://github.com/godikemahesh/verispec) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-21 - Spec-driven quality engineering framework that turns specifications into traceable test strategies, native test suites, and continuous release evidence.
+* [bareenv](https://github.com/Blasword/bareenv) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-03 - Runs a command once per environment combination (unset, empty, invalid) and reports the ones that break.
 * [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 * [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 
 ### Screen Recording & Session Replays
 
-* [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,335 | 🐛 438 | 🌐 TypeScript | 📅 2026-10-30 - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
-* [Captura](https://github.com/MathewSachin/Captura) ⭐ 10,872 | 🐛 125 | 🌐 C# | 📅 2026-05-25 - Open-source video recording tool.
+* [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,340 | 🐛 440 | 🌐 TypeScript | 📅 2026-11-02 - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+* [Captura](https://github.com/MathewSachin/Captura) ⭐ 10,873 | 🐛 125 | 🌐 C# | 📅 2026-05-25 - Open-source video recording tool.
 * [Everframe](https://everframe.dev) - In-app bug reporter for mobile, web and TV apps that attaches an annotated screenshot, console, network, device info and an optional replay of the moments before the bug.
 * [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
 
@@ -268,7 +270,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Static Analysis
 
-* [SmartBench](https://github.com/xianyu-sheng/SmartBench) ⭐ 3 | 🐛 19 | 🌐 Python | 📅 2026-10-29 - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
+* [SmartBench](https://github.com/xianyu-sheng/SmartBench) ⭐ 4 | 🐛 19 | 🌐 Python | 📅 2026-10-29 - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
 
 ## Books
 
@@ -287,7 +289,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Training (Includes developer training for automation testers)
 
-* [Learn to Code](https://github.com/karlhorky/learn-to-program) ⭐ 5,001 | 🐛 27 | 📅 2026-09-14 - Another awesome list for developer training
+* [Learn to Code](https://github.com/karlhorky/learn-to-program) ⭐ 5,002 | 🐛 27 | 📅 2026-09-14 - Another awesome list for developer training
 * [FrontRow](https://github.com/majdukovic/frontrow) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-12 - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
 * [Coursera](https://www.coursera.org/) - Online courses from top universities.
 * [Cybrary](https://www.cybrary.it/) - Online free security training.
@@ -311,28 +313,28 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Must Read
 
-* [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,720 | 🐛 109 | 🌐 Python | 📅 2024-04-18 - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-* [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,819 | 🐛 4 | 📅 2026-10-26 - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+* [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,719 | 🐛 109 | 🌐 Python | 📅 2024-04-18 - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
+* [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,820 | 🐛 4 | 📅 2026-10-26 - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 * [Unicode](https://github.com/jagracey/Awesome-Unicode) ⭐ 990 | 🐛 12 | 🌐 JavaScript | 📅 2022-07-01 - A great resource for learning how unicode works and the issues it can cause.
 
 ### Useful References
 
-* [The Original](https://github.com/sindresorhus/awesome) ⭐ 529,131 | 🐛 105 | 📅 2026-09-02 - The awesome list of awesome lists.
-* [Security](https://github.com/sbilly/awesome-security) ⭐ 15,060 | 🐛 381 | 📅 2026-01-11 - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
-* [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,128 | 🐛 46 | 🌐 PHP | 📅 2025-02-22 - Incredibly extensive, but you'll find something to fit the bill.
+* [The Original](https://github.com/sindresorhus/awesome) ⭐ 529,912 | 🐛 104 | 📅 2026-09-02 - The awesome list of awesome lists.
+* [Security](https://github.com/sbilly/awesome-security) ⭐ 15,064 | 🐛 381 | 📅 2026-01-11 - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+* [Application Security](https://github.com/paragonie/awesome-appsec) ⭐ 7,128 | 🐛 44 | 🌐 PHP | 📅 2025-02-22 - Incredibly extensive, but you'll find something to fit the bill.
 * [How They Test](https://github.com/abhivaikar/howtheytest) ⭐ 6,883 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-22 - A curated collection of public resources from tech companies on how they test their software and build a quality culture
-* [Learn to Code](https://github.com/karlhorky/learn-to-program) ⭐ 5,001 | 🐛 27 | 📅 2026-09-14 - Learning to code, for those looking to make the move to automation
+* [Learn to Code](https://github.com/karlhorky/learn-to-program) ⭐ 5,002 | 🐛 27 | 📅 2026-09-14 - Learning to code, for those looking to make the move to automation
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Selenium](https://github.com/christian-bromann/awesome-selenium) ⭐ 1,136 | 🐛 15 | 📅 2026-09-19 - Better than searching Google if you know what you want.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 808 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - A curated collection of resources around Apache JMeter.
-* [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) ⭐ 167 | 🐛 12 | 📅 2026-10-27 - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
+* [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) ⭐ 168 | 🐛 14 | 📅 2026-10-27 - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 * [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) ⭐ 45 | 🐛 3 | 📅 2021-09-22 - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 * [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) ⭐ 41 | 🐛 1 | 📅 2026-10-06 - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 * [Awesome Behave](https://github.com/MathiasPaulenko/awesome-behave#readme) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - A curated list of Behave resources, tools, and libraries for Python BDD.
 
 ## QA and Testing Road Map
 
-* [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) ⭐ 2,205 | 🐛 9 | 📅 2026-06-04 - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
+* [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) ⭐ 2,204 | 🐛 9 | 📅 2026-06-04 - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 * [QALadder](https://qaladder.org) - A free, sequenced roadmap from manual QA to SDET, with a 150-question interview bank, browser-based practice labs, and QA tools.
 
 ## Others
@@ -366,4 +368,4 @@ have waived all copyright and related or neighboring rights to this work. See th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
